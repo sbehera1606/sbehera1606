@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-AI engineer focused on LLM evaluation and agentic systems. Most of my recent work (S&P Global's LLM evaluation platform and agent design) lives in private enterprise repositories. Georgia Tech CS '27.
+SDE @ S&P Global, focused on LLM evaluation and agentic systems. My work there lives in private enterprise repos.
+Georgia Tech CS '27.
