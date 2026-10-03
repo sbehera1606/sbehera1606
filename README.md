@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-SDE @ S&P Global, focused on LLM evaluation and agentic systems. My work there lives in private enterprise repos.
-Georgia Tech CS '27.
+Software Development Intern @ S&P Global, focused on LLM evaluation and agentic systems. My work there lives in private enterprise repos. Georgia Tech CS '27.
